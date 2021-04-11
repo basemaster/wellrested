@@ -21,11 +21,5 @@
         "psr-4": {
             "WellRESTed\\": "src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "WellRESTed\\": "tests",
-            "WellRESTed\\Test\\": "tests"
-        }
     }
 }
