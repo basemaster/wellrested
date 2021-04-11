@@ -1,8 +1,7 @@
 {
-    "name": "wellrested/wellrested",
-    "description": "Simple PHP Library for RESTful APIs",
+    "name": "basemaster/wellrested",
+    "description": "Clone for Simple PHP Library for RESTful APIs (wellrested.org)",
     "keywords": ["rest", "restful", "api", "http", "psr7", "psr-7", "psr15", "psr-15", "psr17", "psr-17"],
-    "homepage": "https://www.wellrested.org",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -12,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.2",
         "psr/http-factory": "~1.0",
         "psr/http-message": "~1.0",
         "psr/http-server-handler":  "~1.0",
@@ -20,8 +19,7 @@
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2",
-        "phpspec/prophecy-phpunit": "^2.0",
-        "phpunit/phpunit": "^9",
+        "phpunit/phpunit": "^8",
         "vimeo/psalm": "^3.4"
     },
     "autoload": {
