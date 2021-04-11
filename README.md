@@ -1,7 +1,7 @@
 WellRESTed
 ==========
 
-[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.3-8892BF.svg?style=flat-square)](https://php.net/)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D7.2-blue)](https://php.net/)
 [![Build Status](https://travis-ci.org/wellrestedphp/wellrested.svg?branch=master)](https://travis-ci.org/wellrestedphp/wellrested)
 [![Documentation Status](https://readthedocs.org/projects/wellrested/badge/?version=latest)](http://wellrested.readthedocs.org/en/latest/)
 
