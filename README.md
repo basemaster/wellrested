@@ -7,6 +7,8 @@ WellRESTed
 
 WellRESTed is a library for creating RESTful APIs and websites in PHP that provides abstraction for HTTP messages, a powerful handler and middleware system, and a flexible router.
 
+This fork (basemaster/wellrested) is back to php 7.2 release.
+
 ### Features
 
 - Uses [PSR-7](https://www.php-fig.org/psr/psr-7/) interfaces for requests, responses, and streams. This lets you use other PSR-7 compatable libraries seamlessly with WellRESTed.
