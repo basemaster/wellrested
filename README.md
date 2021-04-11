@@ -2,7 +2,6 @@ WellRESTed
 ==========
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D7.2-blue)](https://php.net/)
-[![Build Status](https://travis-ci.org/wellrestedphp/wellrested.svg?branch=master)](https://travis-ci.org/wellrestedphp/wellrested)
 [![Documentation Status](https://readthedocs.org/projects/wellrested/badge/?version=latest)](http://wellrested.readthedocs.org/en/latest/)
 
 WellRESTed is a library for creating RESTful APIs and websites in PHP that provides abstraction for HTTP messages, a powerful handler and middleware system, and a flexible router.
